@@ -1,5 +1,15 @@
 # Ubuntu Start
 
+### Table of contents
+
+- [Update packages](#update-packages)
+- [ZSH](#install-and-set-zsh-as-default-shell)
+- [Essentials](#install-essential-packages)
+- [NodeJS and NPM](#install-latest-version-of-nodejs-and-npm)
+- [Neovim](#install-latest-version-of-neovim-using-the-appimage)
+- [FZF](#install-fzf)
+- [Dotfiles](#dotfiles)
+
 ### Update packages
 
 ```sh
