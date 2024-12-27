@@ -8,6 +8,7 @@
 - [NodeJS and NPM](#install-latest-version-of-nodejs-and-npm)
 - [Neovim](#install-latest-version-of-neovim-using-the-appimage)
 - [FZF](#install-fzf)
+- [Pure prompt](#install-pure-prompt)
 - [Dotfiles](#dotfiles)
 
 ### Update packages
@@ -88,6 +89,11 @@ Now you can use the `nvim` command to run neovim.
 ```sh
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
+```
+
+### Install Pure prompt
+```sh
+npm install --global pure-prompt
 ```
 
 ### Dotfiles
