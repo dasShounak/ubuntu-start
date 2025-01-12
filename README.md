@@ -27,7 +27,7 @@ chsh -s $(which zsh)
 ### Install essential packages
 
 ```sh
-sudo apt install tmux stow git vim net-tools apt-transport-https ca-certificates openvpn unzip bat curl wget python3-pip python3-venv
+sudo apt install tmux stow git vim net-tools apt-transport-https ca-certificates openvpn unzip bat curl wget python3-pip python3-venv zsh-syntax-highlighting zsh-autosuggestions
 ```
 
 ### Install latest version of NodeJS and NPM
