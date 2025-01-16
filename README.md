@@ -132,6 +132,17 @@ Run stow:
 stow .
 ```
 
+### Tmux
+Install TPM
+```sh
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+Run tmux:
+- Press `Ctrl + s + r` to reload config
+- Press `Ctrl + s + I` to install TPM
+
+Repeat these two steps whenever a new plugin is added.
+
 ---
 
 All done!
